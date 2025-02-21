@@ -1,6 +1,6 @@
 [project]
 name = "init-data-python"
-version = "1.0.0"
+version = "1.0.1"
 description = "A Python library that offers simple interface for validating Telegram Mini App initialization data."
 authors = [
     { name = "artender", email = "artem1347929@gmail.com" }
